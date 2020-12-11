@@ -1,0 +1,37 @@
+IPCC AR5
+Table AII.6.10: Total anthropogenic plus natural ERF (W/m2) from CMIP5 and 
+CMIP3, including historical
+Notes:
+CMIP5 historical and RCP results (Forster et al., 2013) are shown with CMIP3 
+SRES A1B results (Forster and Taylor, 2006). 
+The alternative results for 1986-2005 with CMIP5 are derived from: 
+all models contributing historical experiments (1986-2005H), 
+and the subsets of models contributing to each RCP experiment (next line, 1986-2005). 
+ForSRES A1B the same set of models is used from 1850 to 2100. 
+Values are ten-year averages (2090 = 2086-2095) and show multi-model 
+means and standard deviations. 
+See Chapter 12 AR5, Section 12.3 and discussion of Figure 12.4, also 
+Figure 1.15, Sections 8.1, 9.3.2.2, 11.3.6.1, 11.3.6.3. 
+Due to lack of reporting, for RCP8.5 the 2081-2100 result contains one 
+fewer model than the 2090d decade, and for A1B the 1850s result has 
+just 5 models and the 2081-2100 result has 3 fewer models than 
+the 2090 decade.
+
+1850sH -0.19 ± 0.19   (-0.12 ± 0.07)
+1986-2005H 1.51 ± 0.44 (1.34 ± 0.50)
+
+
+Year      SRES A1B    RCP2.6      RCP4.5      RCP6.0      RCP8.5
+           mean± std  mean±std   mean±std   mean±std   mean±std
+1986-2005 1.51   0.44 1.31   0.47 1.30   0.48 1.29   0.51 1.30   0.47
+2081-2100 5.99   0.78 2.40   0.46 3.73   0.56 4.56   0.70 7.02   0.92
+2010      2.18   0.53 1.97   0.50 1.91   0.53 1.90   0.54 1.96   0.53
+2020      2.58   0.57 2.33   0.47 2.27   0.51 2.16   0.55 2.43   0.52
+2030      3.15   0.60 2.50   0.51 2.61   0.54 2.41   0.60 2.92   0.57
+2040      3.77   0.72 2.64   0.47 2.98   0.55 2.72   0.58 3.52   0.60
+2050      4.32   0.73 2.65   0.47 3.25   0.56 3.07   0.61 4.21   0.63
+2060      4.86   0.74 2.57   0.50 3.50   0.59 3.40   0.60 4.97   0.68
+2070      5.32   0.79 2.51   0.50 3.65   0.58 3.90   0.65 5.70   0.76
+2080      5.71   0.81 2.40   0.46 3.71   0.55 4.27   0.69 6.31   0.81
+2090      6.00   0.83 2.44   0.49 3.78   0.58 4.64   0.71 7.13   0.89
+
